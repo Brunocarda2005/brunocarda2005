@@ -2,9 +2,9 @@
 
 
 ## 🚀 About Me
-Soy un programador frontend dedicado que se embarcó en mi viaje de codificación a la edad de 15 años. Desde entonces, he estado inmerso en el mundo de la programación, canalizando mi pasión en innumerables proyectos personales y freelance. Con una amplia experiencia en la creación de interfaces de usuario intuitivas e interacciones fluidas, me encanta el reto de dar vida a las ideas a través de líneas de código.
+I am a dedicated frontend programmer who embarked on my coding journey at the age of 15. Since then, I have been immersed in the world of programming, channeling my passion into countless personal and freelance projects. With extensive experience in creating intuitive user interfaces and fluid interactions, I love the challenge of bringing ideas to life through lines of code.
 
-Mi experiencia radica en el dominio de la lógica de programación y la aplicación de los principios de diseño moderno, que infundo en cada proyecto que emprendo. Actualmente, estoy centrado en el estudio de nuevos patrones de diseño en React, con el objetivo de llevar mis habilidades de codificación al siguiente nivel. 
+My expertise lies in mastering programming logic and applying modern design principles, which I infuse into every project I undertake. Currently, I am focused on studying new design patterns in React, with the goal of taking my coding skills to the next level.
 
 
 ## 🛠 Skills
