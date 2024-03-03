@@ -24,7 +24,7 @@ Node.js, Typescript, Angular.
 
 🤔 Looking for help with: Exploring best practices in frontend optimization and performance tuning to improve the responsiveness and speed of my applications.
 
-📫 How to contact me: Feel free to contact me via email at Brunocardamone03@gmial.com or connect with me on LinkedIn www.linkedin.com/in/bruno-cardamone-470032216.
+📫 How to contact me: Feel free to contact me via email at Brunocardamone03@gmial.com or connect with me on LinkedIn https://www.linkedin.com/in/bruno-cardamone-470032216.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://brunocarda2005.github.io/Bruno/)
