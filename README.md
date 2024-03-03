@@ -1,4 +1,4 @@
-# Hi, I'm Katherine! 👋
+# Hi, I'm Bruno! 👋
 
 
 ## 🚀 About Me
@@ -10,11 +10,12 @@ Mi experiencia radica en el dominio de la lógica de programación y la aplicaci
 ## 🛠 Skills
 `Main`
 React, Javascript, Css, Tailwind, Next.js, Figma.
+
 `Secondary`
 Node.js, Typescript, Angular.
 
 
-## Other Common Github Profile Sections
+## I am currently...
 👩‍💻 I am currently working on: Enhancing my portfolio with cutting edge frontend projects.
 
 🧠 I'm currently learning: New design patterns and advanced techniques in React to raise the quality and efficiency of my code.
